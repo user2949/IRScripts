@@ -1,0 +1,8 @@
+<Tutorial>
+    <Step number="1">
+        <Description>Place IRFootsteps.lua into game.StartPlayer.StarterCharacterScripts</Description>
+    </Step>
+    <Step number="2">
+        <Description>Drag the RBXM (FootstepSounds.rbxm) inside the IRFootsteps script</Description>
+    </Step>
+</Tutorial>
