@@ -1,0 +1,5 @@
+<Tutorial>
+    <Step number="2">
+        <Description>Drag the RBXM (Hotbar (with scripts).rbxm) inside the game.StarterGui service</Description>
+    </Step>
+</Tutorial>
